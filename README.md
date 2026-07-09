@@ -180,5 +180,4 @@ The AP credentials are hardcoded in the firmware for simplicity (educational pro
 ---
 
 ## License
-
 MIT — free to use, modify and distribute with attribution.
