@@ -1,4 +1,4 @@
-# 🚗 Wi-Fi Teleoperated Ground Drone — ESP32 + ESP32-CAM + WebSocket + GPS
+# Wi-Fi Teleoperated Ground Drone — ESP32 + ESP32-CAM + WebSocket + GPS
 
 > Remotely controlled ground vehicle with live video streaming, real-time GPS tracking,
 > and WebSocket-based control — all served from the ESP32 itself, no cloud required.
